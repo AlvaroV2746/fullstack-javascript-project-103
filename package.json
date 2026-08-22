@@ -11,7 +11,8 @@
     "gendiff": "./gendiff.js"
   },
   "dependencies": {
-    "commander": "^15.0.0"
+    "commander": "^15.0.0",
+    "lodash": "^4.18.1"
   },
   "author": "",
   "license": "ISC"
