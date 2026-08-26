@@ -5,15 +5,20 @@
   "description": "[![Actions Status](https://github.com/AlvaroV2746/fullstack-javascript-project-103/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlvaroV2746/fullstack-javascript-project-103/actions)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest",
+    "lint": "npx eslint ."
   },
   "bin": {
-    "gendiff": "./gendiff.js"
+    "gendiff": "./src/gendiff.js"
   },
   "dependencies": {
     "commander": "^15.0.0",
+    "js-yaml": "^5.4.0",
     "lodash": "^4.18.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^4.1.11"
+  }
 }
