@@ -8,3 +8,6 @@ https://asciinema.org/a/63r4XNLeWZiUAhnC
 
 Paso 8:
 https://asciinema.org/a/T7AXtz8MqC2slAio
+
+Paso 9:
+https://asciinema.org/a/DQDtKg5PS4iZDgx3
