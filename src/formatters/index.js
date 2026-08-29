@@ -1,8 +1,9 @@
 // src/formatters/index.js
 import stylish from './stylish.js';
+import plain from './plain.js';
 
 const formatters = {
-    stylish,
+    stylish, plain
 };
 
 const format = (data1, data2, formatName) => {
