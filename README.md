@@ -11,3 +11,6 @@ https://asciinema.org/a/T7AXtz8MqC2slAio
 
 Paso 9:
 https://asciinema.org/a/DQDtKg5PS4iZDgx3
+
+Paso 10:
+https://asciinema.org/a/d8LhvWIYZDHXXZj9
