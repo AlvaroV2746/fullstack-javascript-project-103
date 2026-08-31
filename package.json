@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "description": "[![Actions Status](https://github.com/AlvaroV2746/fullstack-javascript-project-103/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlvaroV2746/fullstack-javascript-project-103/actions)",
-  "main": "index.js",
+  "main": "code/index.js",
+  "exports": {
+    ".": "./code/index.js"
+  },
   "scripts": {
     "test": "vitest",
     "lint": "npx eslint ."
